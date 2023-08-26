@@ -8,26 +8,26 @@ export const font = Roboto({
 });
 
 export const metadata = {
-	title: `Bank - Tins pham`,
+	title: `VPBank - 1234.200.999`,
 	description: `VPBank - 1234.200.999`,
 
 	twitter: {
 		card: "summary_large_image",
-		title: `Bank - Tins pham`,
+		title: `VPBank - 1234.200.999`,
 		description: `VPBank - 1234.200.999`,
 		creator: "@tinspham209",
 		images: {
 			url: "/opengraph-image.webp",
-			alt: `Bank - Tins pham`,
+			alt: `VPBank - 1234.200.999`,
 		},
 	},
 	metadataBase: new URL("https://bank.tinspham.dev"),
 	openGraph: {
-		title: `Bank - Tins pham`,
+		title: `VPBank - 1234.200.999`,
 		description: `VPBank - 1234.200.999`,
 		url: "https://bank.tinspham.dev",
 		images: "/opengraph-image.webp",
-		siteName: `Bank - Tins pham`,
+		siteName: `VPBank - 1234.200.999`,
 		type: "website",
 		locale: "vi_VN",
 	},
