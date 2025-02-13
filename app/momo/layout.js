@@ -8,7 +8,7 @@ export const metadata = {
 		description: `MoMo - 0932.535.175`,
 		creator: "@tinspham209",
 		images: {
-			url: "/opengraph-image.webp",
+			url: "/opengraph-image-momo.webp",
 			alt: `MoMo - 0932.535.175`,
 		},
 	},
@@ -17,7 +17,7 @@ export const metadata = {
 		title: `MoMo - 0932.535.175`,
 		description: `MoMo - 0932.535.175`,
 		url: "https://bank.tinspham.dev/momo",
-		images: "/opengraph-image.webp",
+		images: "/opengraph-image-momo.webp",
 		siteName: `MoMo - 0932.535.175`,
 		type: "website",
 		locale: "vi_VN",
